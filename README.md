@@ -1,4 +1,4 @@
-<img src="images/GithubCover2024.png">
+<img src="cover.png">
 
 # Kaan Esendemir
 
